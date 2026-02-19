@@ -1,60 +1,81 @@
-# 👋 Hi, I’m **Atul Kumar**
+# 👋 Hi, I’m Atul Kumar
 
-### 🚀 Flutter Developer (Learner) | 📱 App Designer | 🔐 Safety-Tech Enthusiast  
+### 🚀 B.Tech CSE Student | 🤖 AI & Automation Enthusiast | 🎨 Creative Designer
 
-I love building apps that solve real-world problems.  
-Currently working on **Sahayak App**, a smart emergency safety assistant built using Flutter.
+I enjoy building practical tech solutions that solve real-world problems.  
+Currently working on AI-driven desktop tools and automation-focused projects.
 
 ---
 
 ## 🧑‍💻 Technical Skills  
 
-### **Mobile App Development**
-- **Flutter (Dart):** Learning actively; working on real projects, UI building, navigation, state basics & API integration.  
-- **Firebase:** Beginner level; familiar with Authentication & Firestore/Realtime DB basics.  
-- **REST APIs:** Beginner level; able to call simple APIs and handle JSON responses in Flutter.
+### 🤖 AI & Automation
+- Python (Core basics, scripting, logic building)
+- Tkinter (GUI development)
+- SpeechRecognition & Pyttsx3
+- Basic automation & OS-level command handling
 
-### **Web Development**
-- **HTML, CSS, JavaScript:** Beginner; learning and building responsive designs & simple interactive pages.  
-- **Python:** Learning basics; familiar with syntax, logic building & small scripts.
+### 🌐 Programming & Development
+- Python fundamentals (functions, loops, file handling)
+- Git & GitHub
+- Basic problem solving & logical thinking
 
-### **Design & Product Thinking**
-- **UI/UX Design Thinking:** Beginner, improving through app projects and user-focused design flow.
-
----
-
-## 🤝 Soft Skills  
-- **Team Management** – able to coordinate tasks and lead  groups  
-- **Event Management** – organizing & managing activities with proper planning  
+### 🎨 Design & Creativity
+- Adobe Photoshop (Posters, social creatives, thumbnails)
+- Canva
+- UI/UX design fundamentals
 
 ---
 
-## 🚀 Current Project  
-### 🔐 **Sahayak App — Personal Safety Assistant (WIP)**
-A Flutter-based safety app with:
+## 🚀 Featured Projects  
+
+### 🤖 JAYA AI — Personalized Visual Desktop Assistant (WIP)
+A Python-based intelligent desktop assistant focused on visual interaction and contextual memory.
+- Tkinter-based animated GUI
+- Speech recognition & text-to-speech integration
+- Reminder storage system
+- Task automation capabilities
+- Architecture planning for future AI expansion
+
+🔗 Repository: https://github.com/atuljk2008-cyber/JAYA-AI
+
+---
+
+### 🔐 Sahayak App — Personal Safety Assistant (Concept | WIP)
+A safety-focused application concept featuring:
 - 📍 Live location sharing  
-- 🎤 Voice-triggered SOS (works even if phone isn’t in hand)  
-- 🔒 Custom secret emergency phrases  
+- 🎤 Voice-triggered SOS  
+- 🔒 Custom emergency phrases  
 - 👥 Instant alert system for trusted contacts  
+Currently in early planning and architecture phase.
 
 ---
 
-## 🌱 What I’m Learning  
-- Flutter animations & clean architecture  
-- Better state management  
-- Firebase security & optimization  
-- UI smoothness & performance  
-- Web dev fundamentals (JS, CSS)  
-- Python basics & automation concepts  
+## 🏆 Leadership & Campus Experience  
+
+- Event Management Team Member – Coding Blocks, LPU  
+  Assisted in organizing DJ Night & Hackathons, managing registrations, promotions, and on-ground execution.
+
+- Placement Coordination Support – LPU  
+  Briefly assisted in communication and scheduling during a campus placement drive.
+
+- Completed “Leadership and Followership” (The Open University – OpenLearn)
+
+---
+
+## 🌱 Currently Learning  
+- Advanced Python concepts  
+- Automation systems  
+- Clean code practices  
+- AI interaction systems  
 
 ---
 
 ## 📫 Contact Me  
-📧 **atuljk2008@gmail.com**
+📧 atuljk2008@gmail.com  
 
 ---
 
-## ⭐ Fun Fact  
-I enjoy creating apps that help people in emergencies & real-life situations.
-
-If you like my work, don't forget to ⭐ my repositories!
+## ⭐ About Me  
+Passionate about building AI-powered tools and practical digital solutions.  
+Always learning, always building 🚀
